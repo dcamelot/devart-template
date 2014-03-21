@@ -33,7 +33,6 @@ EXAMPLE
 ## Images & Videos
 NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
 ![Example Image] (https://f.cloud.github.com/assets/7022249/2485207/3225c89c-b116-11e3-9b8d-4e76e69c0f39.jpg "Example Image")
-![Example Image]
 
-(http://www.youtube.com/watch?v=G-UNRFt206c)
+http://www.youtube.com/watch?v=G-UNRFt206c
  

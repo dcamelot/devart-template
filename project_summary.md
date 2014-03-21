@@ -1,20 +1,21 @@
-# Project Title
-Insert the name of your project
+# Project Name
+The Natural Anthroposphere
 
 ## Authors
-- Insert main author name, surname, github account
-- Insert other author(s) name, surname, github account (one per list element)
+- David Camelot
+- 
 
 ## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+The Tech Globe is the Anthroposphere or Noosphere, but we must not forget the natural world on which it rests and is dependent, thus the Natural Anthroposphere is a way to use technology and art to honor our nature.
 
 ## Link to Prototype
-NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
+- http://www.natureshandab.org
 
 [Example Link](http://www.google.com "Example Link")
 
 ## Example Code
 NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
+Code type is basic html 4.1 and permitted and original text and images and media files
 ```
 function test() {
   console.log("Printing a test");

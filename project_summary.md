@@ -2,8 +2,8 @@
 The Natural Anthroposphere
 
 ## Authors
-- David Camelot
-- 
+David Camelot
+
 
 ## Description
 The Tech Globe is the Anthroposphere or Noosphere, but we must not forget the natural world on which it rests and is dependent, thus the Natural Anthroposphere is a way to use technology and art to honor our nature.

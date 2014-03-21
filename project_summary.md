@@ -17,11 +17,12 @@ The Tech Globe is the Anthroposphere or Noosphere, but we must not forget the na
 NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
 Code type is basic html 4.1 and permitted and original text and images and media files
 EXAMPLE
-<html>
+...<html>
 <head></head>
 <body>Hello World.
 </body>
 <html>
+...
 
 ```
 function test() {
